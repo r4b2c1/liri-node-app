@@ -18,8 +18,13 @@
   },
   "homepage": "https://github.com/r4b2c1/liri-node-app#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "init": "^0.1.2",
+    "omdb": "^0.8.0",
+    "omdbapi": "^2.0.1",
+    "request": "^2.87.0",
     "require": "^2.4.20",
+    "requirer": "0.0.4",
     "twitter": "^1.7.1"
   }
 }
